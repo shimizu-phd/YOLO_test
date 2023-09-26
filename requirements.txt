@@ -1,0 +1,5 @@
+streamlit
+ultralytic
+torch
+torchvision
+torchaudio
