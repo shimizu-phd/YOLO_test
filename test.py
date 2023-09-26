@@ -1,4 +1,4 @@
-from ultralytic import YOLO
+from ultralytics import YOLO
 import streamlit as st
 
 st.write('よみこめました')

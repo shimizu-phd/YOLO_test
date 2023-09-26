@@ -1,5 +1,5 @@
 streamlit
-ultralytic
+ultralytics
 torch
 torchvision
 torchaudio
